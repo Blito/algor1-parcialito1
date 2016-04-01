@@ -5,10 +5,10 @@
 
 ### Para descargar
 
- - [Click aquí](https://github.com/Blito/algor1-parcialito1/archive/master.zip)
+[Click aquí](https://github.com/Blito/algor1-parcialito1/archive/master.zip) o en el boton Download ZIP arriba a la derecha
 
 
- Si no, con una consola que tenga ´git´:
+Si no, con una consola que tenga `git`:
 
-    git clone https://github.com/Blito/algor1-parcialito1
+     git clone https://github.com/Blito/algor1-parcialito1
 
